@@ -1,9 +1,13 @@
 _repo: Bhagavad-Gita-Herrens-Sang_48854
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Runeberg, Nino
     gutenberg_agent_id: '45000'
     url: http://www.gutenberg.org/2009/agents/45000
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48854#Bhagavad-Gita-Herrens-Sang
 gutenberg_issued: '2015-05-02'
 gutenberg_type: Text
 identifiers:
